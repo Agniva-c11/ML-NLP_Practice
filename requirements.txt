@@ -6,3 +6,6 @@ seaborn
 nltk
 tensorflow
 streamlit
+spacy
+textblob
+requests
