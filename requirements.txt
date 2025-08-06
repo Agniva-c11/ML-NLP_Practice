@@ -10,3 +10,5 @@ spacy
 textblob
 requests
 mlxtend
+beautifulsoup4
+requests
